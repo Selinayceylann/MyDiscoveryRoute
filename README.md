@@ -1,4 +1,4 @@
-# Uyguluma ile İlgili Bilgiler
+# Uygulama ile İlgili Bilgiler
 
 ## Uygulama İsmi
 My Discovery Route
@@ -18,18 +18,18 @@ Bu mobil uygulama, kullanıcıların Türkiye’deki şehirleri ve bu şehirlere
   <h4>Konumlar ve Favoriler Ekranları</h4>
   <table>
     <tr>
-      <td><img src="https://github.com/Selinayceylann/MyDiscoveryRoute/blob/main/MyDiscoveryRoute/screenshots2/konumlar.png" alt="Login Screen" width="200"/></td>
-      <td><img src="https://github.com/Selinayceylann/MyDiscoveryRoute/blob/main/MyDiscoveryRoute/screenshots2/sehirkonumlar.png" alt="Create Account Screen" width="200"/></td>
-      <td><img src="https://github.com/Selinayceylann/MyDiscoveryRoute/blob/main/MyDiscoveryRoute/screenshots2/favoriler.png" alt="Sign In Screen" width="200"/></td>
+      <td><img src="https://github.com/Selinayceylann/MyDiscoveryRoute/blob/main/MyDiscoveryRoute/screenshots2/konumlar.png" width="200"/></td>
+      <td><img src="https://github.com/Selinayceylann/MyDiscoveryRoute/blob/main/MyDiscoveryRoute/screenshots2/sehirkonumlar.png" width="200"/></td>
+      <td><img src="https://github.com/Selinayceylann/MyDiscoveryRoute/blob/main/MyDiscoveryRoute/screenshots2/favoriler.png" width="200"/></td>
     </tr>
   </table>
 
   <h4>Anasayfa ve Ürünler Ekranları</h4>
   <table>
     <tr>
-      <td><img src="https://github.com/Selinayceylann/MyDiscoveryRoute/blob/main/MyDiscoveryRoute/screenshots2/ayrintilar.png" alt="Home Screen" width="200"/></td>
-      <td><img src="https://github.com/Selinayceylann/MyDiscoveryRoute/blob/main/MyDiscoveryRoute/screenshots2/harita.png" alt="Product Screen" width="200"/></td>
-      <td><img src="https://github.com/Selinayceylann/MyDiscoveryRoute/blob/main/MyDiscoveryRoute/screenshots2/yoltarifi.png" alt="Buy Screen" width="200"/></td>
+      <td><img src="https://github.com/Selinayceylann/MyDiscoveryRoute/blob/main/MyDiscoveryRoute/screenshots2/ayrintilar.png" width="200"/></td>
+      <td><img src="https://github.com/Selinayceylann/MyDiscoveryRoute/blob/main/MyDiscoveryRoute/screenshots2/harita.png" width="200"/></td>
+      <td><img src="https://github.com/Selinayceylann/MyDiscoveryRoute/blob/main/MyDiscoveryRoute/screenshots2/yoltarifi.png" width="200"/></td>
     </tr>
   </table>
 </details>
